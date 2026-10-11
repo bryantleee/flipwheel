@@ -1,0 +1,12 @@
+Flipwheel.app/
+/Flipwheel
+/selftest
+
+.DS_Store
+
+# AI settings
+.claude/
+.codex/
+.cursor/
+.gemini/
+.aider*
